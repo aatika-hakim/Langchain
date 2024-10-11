@@ -1,0 +1,8 @@
+langgraph
+langchain
+python-dotenv
+IPython
+langchain_groq
+langchain_core
+streamlit
+requests
